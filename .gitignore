@@ -1,0 +1,4 @@
+*.idea
+*bootstrap.*
+*/build
+/ExtJS5/resource/SampleApp/sass/example/example.css
